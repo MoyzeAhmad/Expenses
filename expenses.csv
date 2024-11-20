@@ -1,0 +1,2 @@
+group_name,expense_name,amount,payer,split
+tour,dinner,3000.0,moiz@gmail.com,"{'moiz@gmail.com': 1000.0, 'bilal@gmail.com': 1000.0, 'huzi@gmail.com': 1000.0}"
